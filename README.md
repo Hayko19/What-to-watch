@@ -69,5 +69,5 @@ python app.py
 * `db.sqlite3` — база данных
 
 
-[Репозиторий проекта](https://github.com/hayko19/what_to_watch)
+[Репозиторий проекта](https://github.com/Hayko19/What-to-watch)
 
